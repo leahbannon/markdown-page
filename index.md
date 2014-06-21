@@ -7,3 +7,4 @@ published: true
 
 * One two three
 
+This is just plain paragraph text.
