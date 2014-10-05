@@ -14,7 +14,7 @@ This is just plain paragraph text.
 * This is a helpful tool for seeing your markdown code as you write it: [Dillinger.io](http://dillinger.io). This is another one: [StackEdit](https://stackedit.io/editor).
 * This is a link to a [helpful guide for markdown](https://guides.github.com/features/mastering-markdown/). 
 * This page converts [HTML to Markdown](http://domchristie.github.io/to-markdown/).
-* This a [Word to markdown converstion tool](http://word-to-markdown.herokuapp.com/).
+* This a [Word to markdown conversion tool](http://word-to-markdown.herokuapp.com/).
 
 #### Helpful sites & guides for GitHub
 
