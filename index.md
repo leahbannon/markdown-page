@@ -5,9 +5,9 @@ published: true
 
 ### Hello, Markdown Headers
 
-* This is a bullet point.
+* Jess is the best.
 
-This is just plain paragraph text.
+Why yes she is! And she is learning GIT!
 
 #### Helpful sites & guides for *markdown*
 
