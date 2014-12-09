@@ -19,5 +19,5 @@ This is just plain paragraph text.
 #### Helpful sites & guides for GitHub
 
 * This is a link to a [GitHub guides](https://guides.github.com/features/mastering-markdown/). 
-* Here is a [glossary of GitHub jargon](http://www.hardlystrictlybluegrass.com/2014/schedule/).
+* Here is a [glossary of GitHub jargon](https://help.github.com/articles/github-glossary/).
 * This is a link to an awesome [list of pages built on GitHub](http://gsa.github.io/Open-Data-Collaboration-Sandbox/website_examples/). Here is another list of [jekyll sites you can fork](https://github.com/jekyll/jekyll/wiki/Sites).
