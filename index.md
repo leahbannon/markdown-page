@@ -15,6 +15,7 @@ This is just plain paragraph text.
 * This is a link to a [helpful guide for markdown](https://guides.github.com/features/mastering-markdown/). 
 * This page converts [HTML to Markdown](http://domchristie.github.io/to-markdown/).
 * This a [Word to markdown conversion tool](http://word-to-markdown.herokuapp.com/).
+* Some lesser known features of [GitHub-flavored markdown collected by @tiimgreen](https://github.com/tiimgreen/github-cheat-sheet).
 
 #### Helpful sites & guides for GitHub
 
