@@ -3,7 +3,7 @@ layout: main
 published: true
 ---
 
-### Hola/Bonjour/Ni Hao
+### Hello, Markdown Headers
 
 * This is a bullet point.
 
